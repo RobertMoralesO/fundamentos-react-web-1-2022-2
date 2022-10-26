@@ -1,10 +1,10 @@
 import './App.css';
-import Variable from './components/Variable';
+import PeticionApi from './components/PeticionApi';
 
 function App() {
   return (
     <div className="App">
-     <Variable/>
+     <PeticionApi/>
     </div>
   );
 }
